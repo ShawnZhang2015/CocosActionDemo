@@ -58,6 +58,6 @@ typings/
 .env
 
 # cocos
-libary/
+library/
 local/
 temp/
